@@ -1,6 +1,6 @@
 
 {
-  "name": "Mighty-Ocean",
+  "name": "mighty-ocean",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
